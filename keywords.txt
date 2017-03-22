@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For IAMFlexy
+#######################################
+ 
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ 
+IAMFlexy				KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ 
+calibrate				KEYWORD2
+setFanSpeedPerc			KEYWORD2
+setFanSpeedNorm			KEYWORD2
+setFanSpeedRPM			KEYWORD2
+getBendPerc				KEYWORD2
+getBendNorm				KEYWORD2
+getUserInputPerc		KEYWORD2
+getUserInputNorm		KEYWORD2
+initFilter				KEYWORD2
+applyFilter				KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
