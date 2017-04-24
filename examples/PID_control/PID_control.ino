@@ -6,7 +6,7 @@
 #define USER_INPUT_PIN A5     // Potentiometer connected to analog input 5
 
 IAMFlexy flexy(PWM_CONTROL_PIN, ADC_PIN, USER_INPUT_PIN);   // Create an instance of IAMFlexy
-float Ts = 50.0;              // sampling period [sec]
+float Ts = 0.05;              // sampling period [sec]
 float f = 1.0/Ts;             // sampling frequency [Hz]
 PIDController pid(f);         // initialize PID controller with desired sampling frequency
 
