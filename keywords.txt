@@ -6,30 +6,30 @@
 # Datatypes (KEYWORD1)
 #######################################
  
-IAMFlexy				KEYWORD1
-PIDController			KEYWORD1
+IAMFlexy	KEYWORD1
+PIDController	KEYWORD1
  
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
  
-calibrate				KEYWORD2
-setFanSpeedPerc			KEYWORD2
-setFanSpeedNorm			KEYWORD2
-setFanSpeedRPM			KEYWORD2
-getBendPerc				KEYWORD2
-getBendNorm				KEYWORD2
-getUserInputPerc		KEYWORD2
-getUserInputNorm		KEYWORD2
-initFilter				KEYWORD2
-applyFilter				KEYWORD2
-setProportionalGain		KEYWORD2
-setIntegralGain			KEYWORD2
-setDerivativeGain		KEYWORD2
+calibrate	KEYWORD2
+setFanSpeedPerc	KEYWORD2
+setFanSpeedNorm	KEYWORD2
+setFanSpeedRPM	KEYWORD2
+getBendPerc	KEYWORD2
+getBendNorm	KEYWORD2
+getUserInputPerc	KEYWORD2
+getUserInputNorm	KEYWORD2
+initFilter	KEYWORD2
+applyFilter	KEYWORD2
+setProportionalGain	KEYWORD2
+setIntegralGain	KEYWORD2
+setDerivativeGain	KEYWORD2
 setInitialConditions	KEYWORD2
-saturation				KEYWORD2
-reset					KEYWORD2
-compute					KEYWORD2
+saturation	KEYWORD2
+reset	KEYWORD2
+compute	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
